@@ -13,6 +13,6 @@ Here you may find Rutronik Adapter Board 2 (RAB2-CO2)-related hardware documents
   
 
 
-For other documents, such as the user's manual, BOM, etc., please go to this GitHub directory:
+For other documents, such as the user's manual etc., please go to this GitHub directory:
 
 https://github.com/RutronikSystemSolutions/RAB2-CO2_Documents
